@@ -15,7 +15,7 @@
 - JavaScript / JQuery
 - VueJS
 - Mustache / Thymeleaf / JSP
-- 
+
 ## Projects
 - [모임 커뮤니티 사이트](http://team1.space/chting) - 6인 팀 프로젝트        [Github](https://github.com/bestTeam1/ProjectChting)
 - [Youtube-top10](https://zagg2732.github.io/youtube-top10/) - Vue.js를 활용한 2인 팀 프로젝트         [Github](https://github.com/Zagg2732/youtube-top10)
